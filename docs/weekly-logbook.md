@@ -74,7 +74,7 @@ The usefulness was limited compared to the selected opportunity.
 - NUF scoring file:https://docs.google.com/spreadsheets/d/1ASDiVA3A2QnaPEqoUgM9k2qQT_FC5xgV-DXnze-p5OA/edit?usp=sharing
 - Selected opportunity file:https://github.com/Suttmarip/ICT105-STT-MVP/blob/ec5af9f552e0e1d7d29da932bda352ea68dc3c4d/docs/selected-opportunity.md
 - GitHub issue screenshot:<img width="1920" height="1080" alt="{926ECC35-DFCF-41C1-9C9E-8FD71FE46944}" src="https://github.com/user-attachments/assets/793c811c-7349-4368-99f3-fb4e822c239d" />
-- Commit link:
+- Commit link:https://github.com/Suttmarip/ICT105-STT-MVP/commit/64894e841566dc1bf78ae74ae4d4b0aaa4ee09e8
 ### Plan for Lab 03
 The team will conduct customer problem discovery by:
 
